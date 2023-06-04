@@ -1,0 +1,1 @@
+Going to commit this line then revert to previous commit. Also wanna reverify git diff. Changing the file to see if anything different happens if it is untracked and modified.
