@@ -3,3 +3,5 @@ Hello. This is a dummy text document that I will be messing with to help me lear
 I have added this second line after the commit that committed all files together for the first time.
 
 Extra line is now added to demonstrate modifying a file within a new branch before merging it.
+
+This line has been added via GitHub. Let us see if it will be visibile in the log once I make a commit.
