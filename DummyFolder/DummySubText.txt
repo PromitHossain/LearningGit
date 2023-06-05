@@ -1,1 +1,2 @@
 This will be a text document within a folder.
+This file within a folder will now be updated to observe the behavior that occurs when using git status. 
