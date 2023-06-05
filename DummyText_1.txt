@@ -1,3 +1,5 @@
 Hello. This is a dummy text document that I will be messing with to help me learn how to use Git without comprimising any valuable files.
 
 I have added this second line after the commit that committed all files together for the first time.
+
+Extra line is now added to demonstrate modifying a file within a new branch before merging it.
