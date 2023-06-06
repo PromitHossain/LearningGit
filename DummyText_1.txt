@@ -7,3 +7,5 @@ Extra line is now added to demonstrate modifying a file within a new branch befo
 This line has been added via GitHub. Let us see if it will be visibile in the log once I make a commit.
 
 This is a second line created in GitHub.
+
+This line was created with the purpose of pushing it to the remote repository.
